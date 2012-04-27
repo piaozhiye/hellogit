@@ -12,7 +12,8 @@ int main(void){
 	printf("Hour: %d\n",mylocaltime->tm_hour);
 	printf("Min: %d\n",mylocaltime->tm_min);
 	printf("Second: %d\n",mylocaltime->tm_sec);
-	printf("Verson:0.02\n");
+	printf("Modifyed by piaozhiye\n");
+	printf("Verson:0.03\n");
 	printf("hello world\n");
 	return 0;
 }
